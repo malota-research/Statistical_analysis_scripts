@@ -80,7 +80,7 @@ Raw experimental data are available from the corresponding author on reasonable 
 
 ## Citation in manuscript (example)
 
-"MATLAB analysis scripts are available as supplementary material at: <GitHub repository URL>."
+"MATLAB analysis scripts are available as supplementary material at: https://github.com/Warlord1986pl/Statystical_analysis_scripts."
 
 Citation metadata for software citation tools is provided in `CITATION.cff`.
 

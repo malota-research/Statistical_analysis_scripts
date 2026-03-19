@@ -8,7 +8,7 @@ authors:
     name-particle: "dr"
     affiliation: "Institute of Biology, Biotechnology and Environmental Protection, Faculty of Natural Sciences, University of Silesia in Katowice, Katowice, Poland"
     email: "karol.malota@us.edu.pl"
-repository-code: "https://github.com/<owner>/Statystical_analysis_scripts"
+repository-code: "https://github.com/Warlord1986pl/Statystical_analysis_scripts"
 abstract: "MATLAB scripts for cytometry endpoint statistics and larvae hatching mixed-model analysis used as supplementary material in a scientific study."
 license: "NOASSERTION"
 keywords:
