@@ -1,0 +1,12 @@
+# MATLAB
+*.asv
+*.autosave
+*.fig
+
+# Generated analysis outputs
+outputs/
+results/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
