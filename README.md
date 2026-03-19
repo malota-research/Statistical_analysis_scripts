@@ -2,6 +2,14 @@
 
 Supplementary material repository containing MATLAB scripts used for data processing and statistical analysis in a scientific workflow.
 
+## Methods summary
+
+This repository contains MATLAB workflows used to analyze cytometry endpoints and larvae hatching outcomes.
+
+- `scripts/statistical_analysis.m` uses an assumption-driven path per parameter: normality check first, then parametric or non-parametric group comparisons depending on data structure (two-group vs multi-group) and variance behavior.
+- `scripts/larvae_hatching_analysis.m` fits a linear mixed-effects model with replicate/plate as a random effect and reports Bonferroni-adjusted pairwise contrasts.
+- Reports include test path, p-values, and generated figures (boxplots, bar plots, and heatmaps) to support transparent, reproducible interpretation.
+
 ## Scope
 
 This repository intentionally contains only three scripts:
@@ -66,9 +74,15 @@ See:
 - `docs/REPRODUCIBILITY.md`
 - `docs/DATA_REQUIREMENTS.md`
 
+## Data availability
+
+Raw experimental data are available from the corresponding author on reasonable request.
+
 ## Citation in manuscript (example)
 
 "MATLAB analysis scripts are available as supplementary material at: <GitHub repository URL>."
+
+Citation metadata for software citation tools is provided in `CITATION.cff`.
 
 ## License
 

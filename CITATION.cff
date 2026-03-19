@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Statystical Analysis Scripts"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Malota"
+    given-names: "Karol"
+    name-particle: "dr"
+    affiliation: "Institute of Biology, Biotechnology and Environmental Protection, Faculty of Natural Sciences, University of Silesia in Katowice, Katowice, Poland"
+    email: "karol.malota@us.edu.pl"
+repository-code: "https://github.com/<owner>/Statystical_analysis_scripts"
+abstract: "MATLAB scripts for cytometry endpoint statistics and larvae hatching mixed-model analysis used as supplementary material in a scientific study."
+license: "NOASSERTION"
+keywords:
+  - MATLAB
+  - statistics
+  - mixed-effects model
+  - cytometry
+  - reproducibility
